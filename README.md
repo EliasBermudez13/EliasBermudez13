@@ -1,7 +1,7 @@
 ### Hola!👋👋 Mi nombre es Elias 
 Bienvenido a mi humilde perfil de GitHub.
 - 💻 Soy Full stack developer y Tester de software con experiencia en Javascript, Python, React.js, Flask, HTML y CSS.
-- 🌱 Actualmente estoy aprendiendo a realizar unit Testing con Java.
+- 🌱 Actualmente estoy aprendiendo GeneXus y mejorando mis habilidades con el idioma ingles.
 - 📄 Puedes ver mi curriculum [Aqui](https://flowcv.com/resume/lud1ttp07a)
 - ⚽ Me gusta practicar deportes, como futbol, basket y mas.
 - 🎮 En mis tiempos libres disfruto de jugar algun videojuego con mis amigos.
