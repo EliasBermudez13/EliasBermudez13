@@ -6,6 +6,7 @@ Bienvenido a mi humilde perfil de GitHub.
 - ⚽ Me gusta practicar deportes, como futbol, basket y mas.
 - 🎮 En mis tiempos libres disfruto de jugar algun videojuego con mis amigos.
 - 📫 Contactame via [LinkedIn](https://www.linkedin.com/in/elias-bermudez/)
+- ⚡ Puedes ver mi experiencia en testing [Aqui](https://drive.google.com/drive/folders/1wl2idcR8BlUuIazMDaSG9gs5jp7JmzMj?usp=drive_link)
 
 Tecnologias:
 
