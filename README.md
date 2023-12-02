@@ -1,7 +1,7 @@
 ### Hola!👋👋 Mi nombre es Elias 
 Bienvenido a mi humilde perfil de GitHub.
 - 💻 Soy Full stack developer y Tester de software con experiencia en Javascript, Python, React.js, Flask, HTML y CSS.
-- 🌱 Actualmente estoy aprendiendo GeneXus y mejorando mis habilidades con el idioma ingles.
+- 🌱 Actualmente estoy aprendiendo Ciberseguridad y mejorando mis habilidades con el idioma ingles.
 - 📄 Puedes ver mi curriculum [Aqui](https://flowcv.com/resume/lud1ttp07a)
 - ⚽ Me gusta practicar deportes, como futbol, basket y mas.
 - 🎮 En mis tiempos libres disfruto de jugar algun videojuego con mis amigos.
@@ -21,17 +21,3 @@ Tecnologias:
 ![image](https://user-images.githubusercontent.com/111017751/226451177-85b0857b-0a9b-467d-bb2e-ed6969fc7126.png)
 ![image](https://user-images.githubusercontent.com/111017751/226451300-fc661e4e-206a-4f0e-872e-f7322b243374.png)
 
-<!--
-**EliasBermudez13/EliasBermudez13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
